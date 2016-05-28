@@ -1,0 +1,22 @@
+{
+  "name": "auto-interface",
+  "version": "1.0.0",
+  "description": "Interface which provides ability to execute tests and get report. Readily available and configured.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SatheeshNagarajan/autoUI.git"
+  },
+  "keywords": [
+    "auto"
+  ],
+  "author": "Satheesh Nagarajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SatheeshNagarajan/autoUI/issues"
+  },
+  "homepage": "https://github.com/SatheeshNagarajan/autoUI#readme"
+}
